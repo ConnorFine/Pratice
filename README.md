@@ -1,5 +1,7 @@
 #Pratice
 No real important information
+
+List of terms
 * Term 1:
 Cipher- rules that you follow to encode the information
 * Term 2:
